@@ -1,6 +1,6 @@
 Student: Ionescu Ionuț
-Facultate: Facultatea de Cibernetică, Statistică și Informatică Economică
-Grupa și Seria: 1020E
+Facultate: Facultatea de Matematica si Informatica
+Grupa și Seria: 161
 
 >[!info] ***Introducere***:
 >"Online Compiler"-ul este o aplicație distribuită web care este capabilă de compilarea și rularea scripturilor scrise în diverse limbaje de programare cum ar fi: C, C++, JAVA și PYTHON, folosind o arhitectură complexă de containere Docker, utilizând pentru fiecare limbaj de programare câte un container, în afară de limbajele C și C++ care vor fi compilate și rulate pe un singur container de alpine:latest.
